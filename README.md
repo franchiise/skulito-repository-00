@@ -1,2 +1,2 @@
 # skulito-repository 
- First repository by git and gitHub course
+ First repository by git and gitHub course.
