@@ -84,3 +84,14 @@ label {
     z-index: -1;
 
 }
+
+#res {
+
+    font-family: Yu Gothic;
+    font-size: 20px;
+
+    position: relative;
+    top: -72vh;
+    left: -4%;
+
+}
