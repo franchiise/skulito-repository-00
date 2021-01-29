@@ -55,7 +55,7 @@ label {
 
 }
 
-#ad {
+#adicionar {
 
     cursor: pointer;
 
@@ -88,6 +88,55 @@ label {
         100% {width: 350px; left: -175px;}
 
     }
+
+select {
+
+    padding: 5px;
+
+    width: 160px;
+
+    position: absolute;
+    top: 285px;
+    left: 525px;
+
+}
+
+fieldset {
+
+    font-family: Yu Gothic;
+    font-size: 14px;
+
+    text-align: center;
+
+    width: 125px;
+    height: 25px;
+
+    box-shadow: 0px 2.5px 10px rgba(0, 0, 0, 0.137);
+
+    position: absolute;
+    top: 278px;
+    left: 715px;
+
+    transition: 250ms;
+
+}
+
+legend {
+
+    font-family: Yu Gothic;
+    font-size: 16px;
+
+    text-align: initial;
+
+}
+
+#finalizar {
+
+    position: absolute;
+    top: 535px;
+    left: 525px;
+
+}
 
 @media (max-width: 630px) {
 
