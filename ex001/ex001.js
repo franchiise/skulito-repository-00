@@ -1,4 +1,23 @@
-const array = []
+/*
+
+    A variável 'array' receberá inicialmente nenhum valor,
+    porém, ao executar a function adicionar(), todos os nú-
+    meros digitados serão levados para o array.
+
+    Para tratar os números digitados como numbers, devemos
+    converter seus valores de string para number. Após exe-
+    cutar tal tarefa, devemos criar uma variável item, que 
+    representará uma option do elemento select, permitindo
+    então, escrever todos os números inicializados.
+
+    Já dentro da function finalizar(), com todos os números
+    em formato number, criamos uma estrutura de repetição,
+    para somar todos os elementos. Com resultado da soma em
+    mãos, dividimos pela largura do array (array.length). 
+
+*/ 
+
+let array = []
 
 let txtn = document.querySelector('#txtn')
 let tab = document.querySelector('#tab')
@@ -13,7 +32,7 @@ function adicionar() {
 
         tab.style.height = '235.5px'
 
-        let n = Number.parseInt(txtn.value)
+        let n = Number.parseFloat(txtn.value)
         array.push(n)
 
         let item = document.createElement('option')
@@ -45,17 +64,8 @@ function finalizar() {
         tab.innerHTML = ''
 
         res.style.width = '270px'
-        res.innerHTML += ''
 
         setTimeout(function () {
-
-            let mw = res.style
-
-            if (mw == true) {
-
-
-
-            }
 
             res.style.height = '215px'
 
@@ -70,6 +80,8 @@ function finalizar() {
             let media = total/array.length
 
             res.innerHTML += `<br>Média do Aluno: ${media}`
+
+            array = []
 
         }, 400)
 
