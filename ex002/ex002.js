@@ -1,4 +1,4 @@
-const array = []
+let array = []
 
 function adicionar() {
 
@@ -14,13 +14,15 @@ function adicionar() {
         let n = Number(txtn.value)
         array.push(n)
 
+        res.innerHTML += `<br>${n}² = ${n ** 2}`
+
         if (array.length > 5) {
+
+            res.innerHTML = ''
 
             alert('[ERRO]')
 
-        } else {
-
-                    
+            array = []
 
         }
 
