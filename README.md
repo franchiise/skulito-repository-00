@@ -2,7 +2,7 @@
 
 - Lista de Exercícios Javascript | Professor Leonardo Meirelles (http://professor.leonardomeirelles.com/wp/lista-de-exercicios-javascript/)  
 
---------------- // --------------- // --------------- // --------------- // --------------- // --------------- // --------------- // --------------- // ---------------
+--------------- // --------------- // --------------- // --------------- // --------------- // --------------- // --------------- // ---------------
 
 1. Calcule a média de diversas notas digitadas pelo usuário.
 
