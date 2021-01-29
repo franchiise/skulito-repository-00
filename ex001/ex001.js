@@ -50,7 +50,7 @@ function finalizar() {
 
             res.style.height = '215px'
 
-        }, 450)
+        }, 400)
 
     }
 
