@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Skulito &#128193; | **Respostas** Lista de Exercícios JS
 
 - Lista de Exercícios Javascript | Professor Leonardo Meirelles (http://professor.leonardomeirelles.com/wp/lista-de-exercicios-javascript/)  
@@ -13,3 +14,8 @@
 4. Peça ao usuário para digitar várias idades. Exiba quantas pessoas são maior de idade (18 anos) e quantas são menores.
 
 5. Crie um programa que entre com os dados de altura e sexo de 5 pessoas. Imprima na tela quantas pessoas são do sexo masculino e quantas pessoas são do sexo feminino. Mostre também qual é a maior altura e se essa altura é de um homem ou uma mulher.
+=======
+# skulito-repository 
+ First repository by git and gitHub course.
+
+>>>>>>> Stashed changes
