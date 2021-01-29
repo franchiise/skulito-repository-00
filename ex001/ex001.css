@@ -64,7 +64,7 @@ label {
 
 }
 
-.line {
+#line {
 
     background-color: black;
 
@@ -148,6 +148,31 @@ legend {
 
     }
 
+    #line {
+
+        margin-top: -12%;
+
+    }
+
+    select {
+
+        left: 12%;
+
+    }
+
+    fieldset {
+
+        left: 50%;
+
+    }
+
+    #adicionar {
+
+        left: 0.5%;
+        top: -28vh;
+
+    }
+
 }
 
 @media (max-width: 480px) {
@@ -158,6 +183,31 @@ legend {
 
     }
 
+    #line {
+
+        margin-top: -12%;
+
+    }
+
+    select {
+
+        left: 12%;
+
+    }
+
+    fieldset {
+
+        left: 50%;
+
+    }
+
+    #adicionar {
+
+        left: 0.5%;
+        top: -28vh;
+
+    }
+
 }
 
 @media (max-width: 400px) {
@@ -165,6 +215,31 @@ legend {
     .background {
 
         width: 320px;
+
+    }
+
+    #line {
+
+        margin-top: -12%;
+
+    }
+
+    select {
+
+        left: 12%;
+
+    }
+
+    fieldset {
+
+        left: 50%;
+
+    }
+
+    #adicionar {
+
+        left: 0.5%;
+        top: -28vh;
 
     }
 

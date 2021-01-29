@@ -42,13 +42,34 @@ function finalizar() {
     } else {
 
         let res = document.querySelector('#res')
+        tab.innerHTML = ''
 
         res.style.width = '270px'
         res.innerHTML += ''
 
         setTimeout(function () {
 
+            let mw = res.style
+
+            if (mw == true) {
+
+
+
+            }
+
             res.style.height = '215px'
+
+            let total = 0
+
+            for (let s in array) {
+
+                total += array[s]
+
+            }
+            
+            let media = total/array.length
+
+            res.innerHTML += `<br>Média do Aluno: ${media}`
 
         }, 400)
 
