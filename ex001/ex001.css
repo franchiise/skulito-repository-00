@@ -1,4 +1,4 @@
-.backgrond {
+.background {
 
     background-color: white;
 
@@ -15,5 +15,35 @@
     margin: auto;
 
     z-index: -1;
+
+}
+
+@media (max-width: 630px) {
+
+    .background {
+
+        width: 450px;
+
+    }
+
+}
+
+@media (max-width: 480px) {
+
+    .background {
+
+        width: 380px;
+
+    }
+
+}
+
+@media (max-width: 400px) {
+
+    .background {
+
+        width: 320px;
+
+    }
 
 }
