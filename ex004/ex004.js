@@ -1,3 +1,16 @@
+/*
+
+    Seguindo o andamento dos exercícios, neste código
+    permanece as mesmas inicializações anteriores, com
+    a function adicionar() - criada para denotar todos
+    as idades que foram adicionadas.
+
+    Para representar as idades acima e abaixo de 18,
+    cria-se um forEach(), para executar um determinado
+    comando seguindo uma estrutura condicional composta.
+
+*/
+
 let array = []
 
 function adicionar() {
