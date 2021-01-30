@@ -1,6 +1,6 @@
 /*
 
-    A variável 'array' receberá inicialmente nenhum valor,
+    A variável array receberá inicialmente nenhum valor,
     porém, ao executar a function adicionar(), todos os nú-
     meros digitados serão levados para o array.
 

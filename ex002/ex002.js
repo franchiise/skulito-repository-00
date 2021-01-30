@@ -1,10 +1,10 @@
 /*  
 
-    'array', receberá novamente todos os números digitados pelo
+    array, receberá novamente todos os números digitados pelo
     usuário, e poderá reproduzi-los um de cada vez com seu valor
-    ao quadrado (n ** 2), atravéz da function adicionar().
+    ao quadrado (n ** 2), através da function adicionar().
 
-    Por 'array' estar armazenada dentro de um 'let', permite alte-
+    Por array estar armazenada dentro de um 'let', permite alte-
     rar seu valor na linha (39), resetando o contador do próprio 
     array, por questões de escopo.
 
