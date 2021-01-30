@@ -26,8 +26,8 @@
 
     Going forward the end, at the end of the code, we create
     a conditional structure. Who will get sure a minimun amount
-    of numbers (5), and as it was earlier, it will rewrite the
-    array value for 0, resseting it's result. 
+    of numbers (5), and as it was told earlier, it will rewrite
+    the array value for 0, resseting it's result. 
 
 */
 
