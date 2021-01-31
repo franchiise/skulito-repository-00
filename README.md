@@ -2,8 +2,6 @@
 
 - Lista de Exercícios JavaScript | Professor Leonardo Meirelles (http://professor.leonardomeirelles.com/wp/lista-de-exercicios-javascript/)  
 
----
-
 1. Calcule a média de diversas notas digitadas pelo usuário.
 
 2. Faça um programa que entre com cinco números e imprima o quadrado de cada número.
