@@ -11,8 +11,8 @@
     Finalizando então, no final do código, criamos uma estrutura 
     condicional, que irá garantir a quantidade mínima de números
     (5), e como dito anteriormente, irá rescrever o valor do ar-
-    ray para 0, resetando seu resultado. 
-
+    ray para 0, resetando seu resultado.
+    
 */
 
 let array = []
