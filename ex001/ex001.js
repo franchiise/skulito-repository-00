@@ -13,25 +13,7 @@
     Já dentro da function finalizar(), com todos os números
     em formato number, criamos uma estrutura de repetição,
     para somar todos os elementos. Com resultado da soma em
-    mãos, dividimos pelo comprimento do array (array.length). 
-
-    ------------------------- // -------------------------
-
-    The variable array won't get any first value, however,
-    going forward execute the function adicionar(), all the
-    numbers wrotten will be leaded toward the own array.
-
-    To treat the typed numbers as numbers, we should
-    convert their values from string to number. After exe-
-    cute such a task, we most create a variable item, which
-    would show up an option element from some select, get-
-    ting allow then, to get write all of the numbers that 
-    have got a initialization.
-
-    Right back to function finalizar(), with all the numbers
-    in their own format, we create a repetition structure,
-    to sum all the elements. Now, with the result on our hands,
-    we divide it throught the array length (array.length).
+    mãos, dividimos pelo comprimento do array (array.length).
 
 */ 
 
