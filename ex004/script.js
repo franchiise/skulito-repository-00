@@ -9,18 +9,6 @@
     cria-se um forEach(), para executar um determinado
     comando seguindo uma estrutura condicional composta.
 
-    ------------------------ // ------------------------
-
-    Going over through the previus exercises tracking, 
-    back on this code, it will remain such those same 
-    initializations from earlier, as function adicionar()
-    - created to designate the whole ages tha have been
-    added.
-
-    To represent those abover and lower ages by 18, a 
-    forEach() is created, to carry out a certain command
-    following a compound conditional structure.
-
 */
 
 let array = []

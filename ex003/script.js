@@ -10,17 +10,6 @@
     para identificar o maior valor dentro dos números
     relatados ou do array em si.
 
-    ------------------------ // ------------------------
-
-    Basically the exersice idea is the same as the previus.
-    The only change is at the conditional structure for per-
-    form identifications tasks, such as not get beyond 5 num-
-    bers.
-
-    To report the highest value, again directed toward an ar-
-    ray and using the Math.max() method to identify the highest
-    value within these numbers.
-
 */
 
 let array = []
