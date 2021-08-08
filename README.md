@@ -1,6 +1,6 @@
 # Skulito &#128193; | **Respostas** Lista de Exercícios JS
 
-- Lista de Exercícios JavaScript | Professor Leonardo Meirelles (http://professor.leonardomeirelles.com/wp/lista-de-exercicios-javascript/)  
+Lista de Exercícios JavaScript | Professor Leonardo Meirelles (http://professor.leonardomeirelles.com/wp/lista-de-exercicios-javascript/)  
 
 1. Calcule a média de diversas notas digitadas pelo usuário.
 
